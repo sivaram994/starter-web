@@ -7,3 +7,6 @@ This is a eample showing differents part of the git repository and various comma
 ### Project
 
 #### Web Developement
+
+###Copyright
+git training
